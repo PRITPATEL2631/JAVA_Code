@@ -1,0 +1,6 @@
+Employee:
+    emplyee_id:"P1234"
+Member:
+    First name:'prit'
+    last name:'patel'
+    Date of Birth:'31/01/2000'
